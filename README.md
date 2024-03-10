@@ -19,6 +19,13 @@ Two migration files are also created for doctors and prescription table inside m
 
 Laravel 10.43.0 on php 8.1.0 is used for this demo project
 
+## How to use
+
+- Clone or download the project
+- run [ composer install ]  
+- create a mysql database and update the name in .env file
+- run [ php artisan migrate ]
+
 
 ## License
 Feel free to use and re-use any way you want.
